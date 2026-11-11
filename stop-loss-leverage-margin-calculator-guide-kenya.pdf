@@ -1,0 +1,63 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Length 2761 >>
+stream
+BT /F1 14 Tf 50 790 Td (SwiftTrader Kenya - Official Trading Guide) Tj ET
+BT /F1 11 Tf 50 770 Td (Stop-Loss, Leverage, and Margin Calculator Guide for Kenyan Forex & Crypto Trade) Tj ET
+BT /F2 9 Tf 50 745 Td (Online Guide: https://swifttrader.co.ke/insights/stop-loss-leverage-margin-calculator-guide-kenya) Tj ET
+BT /F2 10 Tf 50 691 Td (Free Trading Cheat Sheet \(PDF\)) Tj ET
+BT /F2 10 Tf 50 677 Td (Download this complete KES/USD Margin & Lot Size Reference Guide for offline use.) Tj ET
+BT /F2 10 Tf 50 655 Td (Download PDF) Tj ET
+BT /F2 10 Tf 50 633 Td (Why Kenyan Traders Lose Capital to Margin Calls) Tj ET
+BT /F2 10 Tf 50 603 Td (Whether you are funding your trading account in Nairobi with 15,000 KES \(~$115 USD\)) Tj ET
+BT /F2 10 Tf 50 589 Td (via M-Pesa STK Push or managing a larger USDT portfolio, over-leveraging remains the) Tj ET
+BT /F2 10 Tf 50 575 Td (primary cause of account liquidation. Understanding the exact math behind Margin,) Tj ET
+BT /F2 10 Tf 50 561 Td (Leverage, and Stop-Loss placement separates CMA-compliant professionals from retail) Tj ET
+BT /F2 10 Tf 50 547 Td (gamblers.) Tj ET
+BT /F2 10 Tf 50 517 Td (1. Understanding Leverage and Required Margin \(KES to USD\)) Tj ET
+BT /F2 10 Tf 50 487 Td (Leverage allows you to control a large position with a fraction of the capital.) Tj ET
+BT /F2 10 Tf 50 473 Td (Formula: Required Margin = \(Contract Size x Lots x Current Price\) / Leverage.) Tj ET
+BT /F2 10 Tf 50 443 Td (Example on Gold \(XAU/USD\): Suppose Gold trades at $2,650, and your account leverage) Tj ET
+BT /F2 10 Tf 50 429 Td (is 1:100. Buying 0.05 lots \(5 ounces\) requires $132.50 \(~17,100 KES\) at 1:100) Tj ET
+BT /F2 10 Tf 50 415 Td (leverage, or $26.50 \(~3,420 KES\) at 1:500 leverage.) Tj ET
+BT /F2 10 Tf 50 385 Td (2. The 2% Stop-Loss Rule for M-Pesa Funded Accounts) Tj ET
+BT /F2 10 Tf 50 355 Td (Never risk more than 1% to 2% of your total equity on a single trade. If your) Tj ET
+BT /F2 10 Tf 50 341 Td (account holds $200 \(approx. 25,800 KES\), your maximum loss per trade must be capped) Tj ET
+BT /F2 10 Tf 50 327 Td (at $4.00.) Tj ET
+BT /F2 10 Tf 50 297 Td (3. Calculating Position Size Before Entering a Trade) Tj ET
+BT /F2 10 Tf 50 267 Td (Use this exact formula before clicking Buy or Sell on MT5: Lot Size = Risk Amount) Tj ET
+BT /F2 10 Tf 50 253 Td (\($\) / \(Stop-Loss in Pips x Pip Value per Standard Lot\). By automating your Stop-Loss) Tj ET
+BT /F2 10 Tf 50 239 Td (and using instant M-Pesa margin top-ups only for planned scaling, you ensure) Tj ET
+BT /F2 10 Tf 50 225 Td (long-term survival in the Nairobi forex and crypto markets.) Tj ET
+BT /F1 10 Tf 50 40 Td (Access live M-Pesa trading tools at: https://swifttrader.co.ke/insights/stop-loss-leverage-margin-calculator-guide-kenya) Tj ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000000326 00000 n 
+0000000396 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+3209
+%%EOF
